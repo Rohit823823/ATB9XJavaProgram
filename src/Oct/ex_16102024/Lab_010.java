@@ -20,3 +20,4 @@ public class Lab_010 {
 //23
 //Enter your salary
 //50,000
+
