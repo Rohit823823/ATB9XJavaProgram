@@ -1,4 +1,4 @@
-package Nov.Task01;
+package Nov.ex_05112024.Task01;
 
 public class Runner {
     public static void main(String[] args) {
