@@ -1,4 +1,4 @@
-package Nov.ex_16112024;
+package Nov.ex_18112024;
 import java.util.Scanner;
 public class Lab_185 {
     public static void main(String[] args) {

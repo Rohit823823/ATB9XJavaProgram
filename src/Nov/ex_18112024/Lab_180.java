@@ -1,4 +1,4 @@
-package Nov.ex_16112024;
+package Nov.ex_18112024;
 
 public class Lab_180 {
     public static void main(String[] args) {
